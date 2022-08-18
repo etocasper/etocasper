@@ -1,16 +1,28 @@
-### Hi there 👋
+### Hi there, I'm [Casper](https://github.com/etocasper) 👋
 
-<!--
-**etocasper/etocasper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Web & Desktop Engineer. I'm a highly motivated person, dynamic, persevering and rigorous. Ready to learn new skills and start new adventures. In the future I see myself as a system engineer.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- *Currently I am working on a fast and convenient independent package manager, interaction with which will be carried out both through the CLI and through the usual UI.*
+
+**My Desktop Languages/Tools Stack**:
+- C/C++
+- Python
+- Shell Script
+- Linux
+- Git
+
+**My Web Languages/Tools Stack**:
+- PHP / Node.JS (Express)
+- JavaScript / Vue.JS (Vuex)
+- CSS / Less / SCSS
+- Bootstrap / Tailwind
+- MySQL / PostgreSQL
+
+**IDE's:** Atom / Vim
+
+ **I am open to**:
+
+- any collobration work,
+- system projects(development or research),
+- web-services(algorithms).

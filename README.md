@@ -8,7 +8,6 @@ I am a Web & Desktop Engineer. I'm a highly motivated person, dynamic, perseveri
 **My Desktop Languages/Tools Stack**:
 - C/C++
 - Python
-- Shell Script
 - Linux
 - Git
 

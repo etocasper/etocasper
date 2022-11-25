@@ -8,7 +8,6 @@ I am a Web & Desktop Engineer. I'm a highly motivated person, dynamic, perseveri
 **My Desktop Languages/Tools Stack**:
 - C/C++
 - Python
-- Linux
 - Git
 
 **My Web Languages/Tools Stack**:
@@ -18,7 +17,7 @@ I am a Web & Desktop Engineer. I'm a highly motivated person, dynamic, perseveri
 - Bootstrap / Tailwind
 - MySQL / PostgreSQL
 
-**IDE's:** Atom / Vim
+**IDE's:** Atom / Vim / VSCode
 
  **I am open to**:
 
